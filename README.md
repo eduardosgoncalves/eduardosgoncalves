@@ -1,11 +1,14 @@
 ### 👋 Welcome!
 
+This is a work in progress repo... I didn't have the habit of putting my codes here but from now on, I'll update with my adventures around the dev world in languages other than .NET
+
 Here something about me:
 
 - 🔭 I’m currently working at [Tata Consultancy Services](https://tcs.com/) as Senior C#.NET Fullstack Developer
 - :trophy: I’m Scrum Master Professional Certificated (SMPC®) by [CertiProf®](https://certiprof.com/)
-- :muscle: I’m specialist in .NET, Architecture and SAP Business One Apps
-- 💬 Ask me about: Development :)
+- :muscle: I’m specialist in .NET, Agile Methodologies and SAP Business One Apps
+- :brain: I'm learning React, Go, Elixir and Kotlin in Udemy, so, check the other repos
+- 💬 Ask me about: Development, Agile and SAP :)
 <!--- ⚡ Check my repos specially [DevStore Microservices](https://github.com/desenvolvedor-io/dev-store), [Equinox Project](https://github.com/EduardoPires/EquinoxProject) and [NetDevPack](https://github.com/NetDevPack)-->
 
 ---
